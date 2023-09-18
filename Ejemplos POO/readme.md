@@ -6,17 +6,17 @@
 </head>
 <body>
     <h1>Ejemplos de Programación POO con Python</h1>
-    <h3> <b>Nombre:</b> Charles Cotzojay</h3>
-    <h3> <b>Carné:</b> 201115614</h3>
+    <h3> Nombre: Charles Cotzojay</h3>
+    <h3> Carné: 201115614</h3>
     <p>
         Solución de los siguientes problemas<br>
         1. Solicitar 3 textos y realizar lo siguiente:<br>
             • Mostrar el promedio de las longitudes de los textos.<br>
             • Concatenar los textos e indicar si el largo es mayor, menor o igual a 15.<br>
             • Indicar cuál de los textos posee más caracteres.<br>
-            • Concatenar los textos e indicar la cantidad de caracteres numéricos existentes. <br>
-        2. Realizar los siguientes cálculos para un empleado del departamento de ventas: <br><br>
-            Comisión por ventas (10% del total vendido)<br>
+            • Concatenar los textos e indicar la cantidad de caracteres numéricos existentes. <br><br>
+        2. Realizar los siguientes cálculos para un empleado del departamento de ventas: <br>
+            • Comisión por ventas (10% del total vendido)<br>
             • Monto para pagar de IGSS (4.83% del sueldo base)<br>
             • Ahorro (7% del total ganado)<br>
             • Total ganado = sueldo base + comisión por ventas + bonificación.<br>
